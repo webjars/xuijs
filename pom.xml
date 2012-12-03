@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>xuijs</artifactId>
-    <version>2.3.2</version>
+    <version>2.3.3-SNAPSHOT</version>
     <name>xuijs</name>
     <description>WebJar for XuiJS</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/xuijs</url>
         <connection>scm:git:https://github.com/webjars/xuijs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/xuijs.git</developerConnection>
-        <tag>xuijs-2.3.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
